@@ -1,6 +1,8 @@
-var counter = require('./count');
+var stuff = require('./stuff'); //get all exports as an array
 
-console.log(counter(['shaun', 'crystal', 'ryu']))
+console.log(stuff.adder(5,6)) //get each values
+console.log(stuff.adder(stuff.pi,5))
+console.log(stuff.counter(['shaun', 'crystal', 'ryu']))
 
 
 // console.log('hello world');
