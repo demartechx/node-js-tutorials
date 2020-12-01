@@ -14,7 +14,7 @@ var pi = 3.142; //or module.exports.pi = 3.142
 // module.exports.pi = pi;
 
 //exports all together
-module.exports = {    
+module.exports = {   
     counter: counter,
     adder: adder,
     pi: pi
