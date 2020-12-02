@@ -1,0 +1,28 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "a little test app",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demartechx/node-js-tutorials.git"
+  },
+  "keywords": [
+    "fun",
+    "ninjas"
+  ],
+  "author": "Demartechx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demartechx/node-js-tutorials/issues"
+  },
+  "homepage": "https://github.com/demartechx/node-js-tutorials#readme"
+}
